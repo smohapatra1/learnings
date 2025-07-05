@@ -1,2 +1,3 @@
 # learnings
-My learnings
+My learnings continues
+# Store the completed courses
